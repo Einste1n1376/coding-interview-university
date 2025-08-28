@@ -509,7 +509,7 @@
 - 这里有很多视频，只要看到你理解为止就好了，你随时可以回来复习。
 - 如果你不理解背后的所有数学，不要担心。
 - 你只需要理解如何用大O表示法来表达算法的复杂度。
-- [ ] [哈佛大学CS50 - 渐进符号（视频）](https://www.youtube.com/watch?v=iOq5kSKqeR4)
+- [x] [哈佛大学CS50 - 渐进符号（视频）](https://www.youtube.com/watch?v=iOq5kSKqeR4)
 - [ ] [大O符号（通用快速教程）（视频）](https://www.youtube.com/watch?v=V6mKVRU1evU)
 - [ ] [大O符号（以及Ω和Θ）- 最佳数学解释（视频）](https://www.youtube.com/watch?v=ei-A_wy5Yxw&index=2&list=PL1BaGV1cIH4UhkL8a9bJGG356covJ76qN)
 - [ ] [Skiena（视频）](https://www.youtube.com/watch?v=z1mkCe3kVUA)
